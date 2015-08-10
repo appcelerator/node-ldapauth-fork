@@ -1,3 +1,4 @@
+Fork of [node-ldapauth-fork](https://github.com/vesse/node-ldapauth-fork) just to rename dependency for ldapjs for new changes required
 Fork of [node-ldapauth](https://github.com/trentm/node-ldapauth) - A simple node.js lib to authenticate against an LDAP server.
 
 ## Node v0.12 / `dtrace-provider` issue

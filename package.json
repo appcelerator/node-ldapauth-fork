@@ -1,6 +1,6 @@
 {
-  "name": "ldapauth-fork",
-  "version": "2.3.2",
+  "name": "appc-ldapauth",
+  "version": "2.3.3",
   "main": "./lib/ldapauth.js",
   "description": "Authenticate against an LDAP server",
   "author": "Vesa Poikajärvi <vesa.poikajarvi@iki.fi>",
@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "bcryptjs": "2.1.0",
-    "ldapjs": "0.7.1",
+    "appc-ldapjs": "0.7.3",
     "lru-cache": "2.5.0"
   }
 }
